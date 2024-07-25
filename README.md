@@ -1,4 +1,5 @@
-## Hi there 👋
+![Programming]([https://www.example.com/programming-picture.jpg](https://www.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_38669425.htm#fromView=search&page=1&position=6&uuid=1d58a050-971a-4b48-bf1f-10ec1288f26d)) 
+
 # Hi there, I'm Masud Ahmed 👋
 
 I'm a passionate developer with experience in a wide range of technologies and tools. I specialize in building both mobile and web applications, solving complex problems, and delivering high-quality solutions.
