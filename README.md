@@ -1,5 +1,3 @@
-![Programming](https://www.example.com/programming-picture.jpg)
-
 # Hi there, I'm Masud Ahmed 👋
 
 I'm a passionate developer with experience in a wide range of technologies and tools. I specialize in building both mobile and web applications, solving complex problems, and delivering high-quality solutions.
