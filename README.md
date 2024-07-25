@@ -11,12 +11,12 @@ I have experience developing both mobile and web applications:
 
 ## 📈 GitHub Stats
 
-![Masud Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=masud-ahmed&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)
+![Masud Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=masuud-ahmed&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)
 
 
 ## 🏆 My GitHub Contributions
 
-![Masud Ahmed's contributions](https://github-readme-streak-stats.herokuapp.com/?user=masud-ahmed)
+![Masud Ahmed's contributions](https://github-readme-streak-stats.herokuapp.com/?user=masuud-ahmed)
 
 ## 🔧 Technologies & Tools
 - **Languages & Frameworks:**
