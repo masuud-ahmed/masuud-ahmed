@@ -6,7 +6,7 @@ I'm a passionate developer with experience in a wide range of technologies and t
 
 I have experience developing both mobile and web applications:
 - **Web Applications**: Creating responsive and dynamic web apps using React.js, Node.js, and modern CSS frameworks.
-- **Mobile Applications**: Building cross-platform mobile apps with React Native, delivering seamless experiences on both iOS and Android.
+- **Mobile Applications**: Building cross-platform mobile apps with React Native, and Flutter delivering seamless experiences on both iOS and Android.
 
 ## 📈 GitHub Stats
 
