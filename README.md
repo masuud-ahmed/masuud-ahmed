@@ -26,6 +26,7 @@ I have experience developing both mobile and web applications:
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
   ![Reactjs](https://img.shields.io/badge/Reactjs-61DAFB?style=flat&logo=react)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
